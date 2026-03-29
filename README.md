@@ -1,13 +1,11 @@
-# Matrix Decomp
+# matrix_decomp
 
-Matrix decomposition: LU, QR, Cholesky.
+matrix_decomp - LU, QR, and Cholesky matrix decomposition.
+
+Zero-dependency, single-file Python CLI.
 
 ## Usage
 
 ```bash
 python3 matrix_decomp.py
 ```
-
-## License
-
-MIT
